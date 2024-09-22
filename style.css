@@ -17,8 +17,12 @@
     margin-top: auto;
     margin-bottom: auto;
     align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 .title {
-    margin: 2rem;
+    margin: 1rem;
+    font-size: 3rem;
+    font-weight: 600;
 }
